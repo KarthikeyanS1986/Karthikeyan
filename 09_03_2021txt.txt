@@ -1,0 +1,33 @@
+
+Webservice 3 : Agile Item to eDHR
+
+If customer or company is null, then response code -6 <br>
+If Agile item Number or eDHR code or lot num or File not found in FTP location, then response code -5 <br>
+If create date or mfg date or shipment date is null, then response code -5 <br>
+If CA is not a valid user in Agile, then response code -5 <br>
+If CA is null when Auto rel flag is N, then response code -4 <br>
+If Auto release flag is neither Y not N, then response code -3 <br>
+If eDHR Document number is null, then response code -9 <br>
+
+
+
+eDHRLME0034$UR
+
+Extended Shift Plan:-
+Dhanya: Sugar
+Jerome: Mailbox
+KArthik: SNC
+Pravin: ED
+PAttusamy: IDMS
+Ponvarshini: Apttus/SFDC
+Ramkumar: Sugar
+Thiravi: Sugar
+
+Huge Manually efforts spend on the reports.
+	Udodyk Alina
+Artur Wielgosz
+
+125907-07 - N/a email issue in transfer process fixed
+94050-08 - Flex id in development
+
+https://flex.zoom.us/j/97302774857?pwd=MktUV0ZTdmx6cVgvWUZ0bUNQbWxmUT09; 
